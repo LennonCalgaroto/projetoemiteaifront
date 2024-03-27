@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  background-color: #efefef;
+  display: flex;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  justify-content: center;
+  align-items: center;
+
+}
+
+h1{
+  color: #333;
+}
+
